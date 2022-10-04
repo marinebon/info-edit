@@ -1,5 +1,5 @@
 librarian::shelf(
-  googledrive, googlesheets4, shiny)
+  googledrive, googlesheets4, shiny, jdtrat/shinymarkdown)
 
 srvc_path <- "~/My Drive/private/shares@nms4gargle.iam.gserviceaccount.com.json"
 # gs4_deauth()
